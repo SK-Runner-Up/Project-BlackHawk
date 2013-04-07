@@ -1,0 +1,26 @@
+2013-04-07 21:22:44 [INFO] Starting minecraft server version 1.5.1
+2013-04-07 21:22:44 [INFO] Loading properties
+2013-04-07 21:22:44 [WARNING] server.properties does not exist
+2013-04-07 21:22:44 [INFO] Generating new properties file
+2013-04-07 21:22:44 [INFO] Default game type: SURVIVAL
+2013-04-07 21:22:44 [INFO] Generating keypair
+2013-04-07 21:22:44 [INFO] Starting Minecraft server on *:25565
+2013-04-07 21:22:45 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (Den angivne fil blev ikke fundet)
+2013-04-07 21:22:45 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (Den angivne fil blev ikke fundet)
+2013-04-07 21:22:45 [INFO] Preparing level "world"
+2013-04-07 21:22:45 [INFO] Preparing start region for level 0
+2013-04-07 21:22:46 [INFO] Preparing spawn area: 14%
+2013-04-07 21:22:47 [INFO] Preparing spawn area: 35%
+2013-04-07 21:22:48 [INFO] Preparing spawn area: 52%
+2013-04-07 21:22:49 [INFO] Preparing spawn area: 72%
+2013-04-07 21:22:50 [INFO] Preparing spawn area: 91%
+2013-04-07 21:22:51 [INFO] Done (5,752s)! For help, type "help" or "?"
+2013-04-07 21:22:56 [INFO] Stopping the server
+2013-04-07 21:22:56 [INFO] Stopping server
+2013-04-07 21:22:56 [INFO] Saving players
+2013-04-07 21:22:56 [INFO] Closing listening thread
+2013-04-07 21:22:56 [INFO] Saving worlds
+2013-04-07 21:22:56 [INFO] Saving chunks for level 'world'/Overworld
+2013-04-07 21:23:02 [INFO] Saving chunks for level 'world'/Nether
+2013-04-07 21:23:02 [INFO] Saving chunks for level 'world'/The End
+2013-04-07 21:23:06 [INFO] Stopping server
